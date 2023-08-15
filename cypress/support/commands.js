@@ -10,4 +10,8 @@ Cypress.Commands.add('generateRandomName', (length) => {
      }
      return `test${result}`;
  }) 
+
  
+Cypress.Commands.add('addedPetId', (response) => {
+  cy.wrap(response.body.id).as('petId');
+});

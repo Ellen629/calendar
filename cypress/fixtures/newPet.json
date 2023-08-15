@@ -1,0 +1,74 @@
+{
+    "newPetData": {
+        "id": 0,
+        "category": {
+          "id": 0,
+          "name": "Corgi"
+        },
+        "name": "Boby",
+        "photoUrls": [
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcTXKY7dBd7SkvzzftZU4_U5l0zOV3iGFx7HNQHw4q-qLh3zG54-Lq5Ey8QjbAOvaGYV1SUhCAaCrou4-yM&psig=AOvVaw0bjd55WgrWRZWZ37SIF5cU&ust=1692122884893000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiT8Y3f3IADFQAAAAAdAAAAABAE"
+        ],
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ],
+        "status": "available"
+      },
+      "secondPetData": {
+        "id": 0,
+        "category": {
+          "id": 0,
+          "name": "chowChow"
+        },
+        "name": "Hanse",
+        "photoUrls": [
+          "https://cdn.akc.org/content/article-body-image/chow_chow_body_image_2.jpg"
+        ],
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ],
+        "status": "pending"
+      },
+      "thirdPetData": {
+        "id": 0,
+        "category": {
+          "id": 0,
+          "name": "taksa"
+        },
+        "name": "Leo",
+        "photoUrls": [
+          "https://iku.ru/images/puppy/taksa/1/taksa_7.jpg"
+        ],
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ],
+        "status": "sold"
+      },
+      "updatedPetData": {
+        "id": 0,
+        "category": {
+          "id": 0,
+          "name": "Corgi"
+        },
+        "name": "Boby",
+        "photoUrls": [
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcTXKY7dBd7SkvzzftZU4_U5l0zOV3iGFx7HNQHw4q-qLh3zG54-Lq5Ey8QjbAOvaGYV1SUhCAaCrou4-yM&psig=AOvVaw0bjd55WgrWRZWZ37SIF5cU&ust=1692122884893000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiT8Y3f3IADFQAAAAAdAAAAABAE"
+        ],
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ],
+        "status": "sold"
+      }
+}

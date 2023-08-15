@@ -1,0 +1,16 @@
+{
+  "invalidData": {
+      "id": "",
+      "category": {
+        "id": 0,
+        "name": 678
+      },
+      "tags": [
+        {
+          "id": 0,
+          "name": "string"
+        }
+      ],
+      "status": "available"
+    }
+}

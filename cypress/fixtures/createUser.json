@@ -1,0 +1,24 @@
+{
+   "newUser": {
+        "id": 0,
+        "username": "test.55",
+        "firstName": "Justin",
+        "lastName": "Morison",
+        "email": "test@gmail.com",
+        "password": "passowrd.55"
+    },
+    "invalidNewUser": {
+        "id": 0,
+        "firstName": "James",
+        "lastName": "Morison",
+        "email": "test@gmail.com"
+    },
+    "updatedUser": {
+        "id": 0,
+        "username": "test.55",
+        "firstName": "Jane",
+        "lastName": "Morison",
+        "email": "test@gmail.com",
+        "password": "secure.66"
+  }
+}
